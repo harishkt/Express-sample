@@ -1,0 +1,29 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishkt/Express-sample.git"
+  },
+  "author": "harish kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishkt/Express-sample/issues"
+  },
+  "homepage": "https://github.com/harishkt/Express-sample#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.0",
+    "babel-core": "^6.24.0",
+    "babel-preset-node6": "^11.0.0",
+    "babel-register": "^6.24.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
